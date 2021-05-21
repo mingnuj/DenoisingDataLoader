@@ -1,5 +1,5 @@
 # DenoisingDataLoader
-Colorization dataloader for publishing 2021 multimedia class ConvNet challenge.
+Denoising dataloader for publishing 2021 multimedia class ConvNet challenge.
 
 # Datatset
 https://drive.google.com/file/d/1nCaLNE644mz7JEYeyAbvyO0njpGdD4s1/view?usp=sharing  
